@@ -1,0 +1,24 @@
+.KCHNDE{
+    display: flex;
+    margin-left: 8%;
+    margin-top: 2% ;
+}
+.kchnde{
+    font-size: 20px;
+    margin-left: 4%;
+    margin-right: 2%;
+}
+.sm-btn{
+    font-size: 20px;
+    background-color: black;
+    margin-top: 5%;
+    cursor: pointer;
+    color: white;
+    border: none;
+    padding: 3%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.sm-btn:hover{
+    background-color:rgb(56,201,14); ;
+}

@@ -1,0 +1,170 @@
+@media only screen and (max-width: 600px) {}
+
+body{
+    background-color: rgb(241,241,240);
+    overflow-x: hidden;
+    position: absolute;
+}
+
+.icons{
+    display: flex;
+    margin-left: 30%;
+}
+   
+.location{
+    color: rgb(192,180,180);
+    display: flex;
+    margin-left: 1%;
+    font-size: 20px;
+    padding: 1%; 
+    
+}
+.ln{
+    color:rgb(56,201,14);
+    font-size: 28px;
+    margin-top: 1.5%;
+    margin-left: 25%;
+    margin-right: 1%;
+
+
+}
+.cnt{
+    color: rgb(192,180,180);
+    display: flex;
+    font-size: 20px;
+    margin-top: -7%;
+    margin-left: 38%;
+    padding: 1%;
+}
+
+.cnt2{
+    color:rgb(56,201,14);
+    font-size: 28px;
+    margin-top: 2.4%;
+    margin-right: 2%;
+}
+.mail{
+    color: rgb(192,180,180);
+    display: flex;
+    margin-top: -7.3%;
+    font-size: 20px;
+    padding: 1%;
+    margin-left: 55%;
+}
+.mail2{
+    color:rgb(56,201,14);
+    font-size: 28px;
+    margin-top: 3.5%;
+    margin-right: 4%;
+}
+.login{
+    color: rgb(192,180,180);
+    display: flex;
+    margin-top: -6.2%;
+    font-size: 20px;
+    margin-left: 1%;
+    margin-left: 75%;
+}
+.login2{
+    color:rgb(56,201,14);
+    font-size: 20px;
+    margin-top: 7%;
+    margin-left: 5%;
+}
+.search{
+    display: flex;
+    font-size: 45px;
+    margin-top: -4%;
+    color:rgb(56,201,14);
+    margin-left: 86%;
+}
+
+.INDES{
+    display: flex;
+    margin-left: 4%;
+}
+.indes{
+    color:rgb(56,201,14);
+    font-size: 50px;
+}
+.indes span{
+    color: black;
+    font-size: 100px;
+}
+.indes p{
+    color: black;
+    font-size: 18px;
+    margin-top: -4%;
+}
+.deab{
+    display: flex;
+    margin-top: 15%;  
+    margin-left: 8%; 
+}
+.de-btn{
+    background-color:rgb(255,255,255);
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.de-btn:hover{
+    background-color:rgb(56,201,14);
+    color: white; 
+} 
+.ab-btn{
+
+    margin-left: 10%;
+    background-color:rgb(255,255,255);
+    cursor: pointer;
+    border: none;
+    font-size: 20px;
+    padding: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+}
+.ab-btn:hover{
+    background-color:rgb(56,201,14);
+    color: white;
+}
+.indespic{
+    margin-left: 6%;
+    margin-top: 3%;
+    padding: 2%;
+}
+.besindes{
+    display: flex;
+    font-size: 18px;
+    margin-top: 3%;
+    background-color: rgb(255,255,255);
+    padding-left: 4%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    
+}
+.besindes img{
+    margin-left: 10%;
+    margin-right: 4%;
+}
+
+.hd2{
+    color:rgb(56,201,14);
+    font-size: 30px;
+
+}
+.hd2 span{
+    color:white;
+    background-color: black;
+    font-size: 45px;
+    margin-left: 8%;
+
+}
+.fstln{
+    font-size: 20px;
+    margin-left: 8%;
+}
+

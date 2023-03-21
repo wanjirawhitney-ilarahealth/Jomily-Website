@@ -1,0 +1,112 @@
+.sm-btn2{
+    font-size: 20px;
+    background-color: black;
+    margin-top: 5%;
+    cursor: pointer;
+    color: white;
+    border: none;
+    padding: 3%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.sm-btn2:hover{
+    background-color:rgb(56,201,14); ;
+}
+.secln{
+    display: flex;
+    background-image: url(Images/ktchn.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.hd3{
+    color:rgb(56,201,14);
+    font-size: 30px;
+    margin-left: 8%;
+    width: 50%;
+
+}
+.hd3 span{
+    color:white;
+    background-color: black;
+    font-size: 45px;
+    
+}
+.btns{
+    display: flex;
+    padding: 3%;
+    width: 100%;
+    padding-left: 25%;
+    padding-right: -80%;
+    margin-left: 28%;
+    margin-top: -14%;
+}
+.btn1{
+    font-size: 15px;
+    background-color: white;
+    margin-top: 4%;
+    cursor: pointer;
+    color:black;
+    border: none;
+    width: 12%;
+}
+.btn1:hover{
+    background-color: black;
+    color: white;
+}
+.btn2{
+    font-size: 15px;
+    background-color: white;
+    margin-top: 4%;
+    cursor: pointer;
+    color:black;
+    border: none;
+    width: 14%;
+    margin-left: 1%;
+   
+}
+.btn2:hover{
+    background-color: black;
+    color: white;
+}
+.btn3{
+    font-size: 15px;
+    background-color: white;
+    margin-top: 4%;
+    cursor: pointer;
+    color: black;
+    border: none;
+    margin-left: 1%;
+    width: 16%;
+    padding: 2%; 
+}
+.btn3:hover{
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+.dsgpic{
+    margin-top: 4%;
+    margin-left: 8%;
+}
+.DSG{
+    display: flex;
+    margin-left: 8%;
+    width: 100%;
+}
+.dsg{
+    font-size: 20px;  
+}
+.dsg h2{
+    color:rgb(56,201,14);
+    font-size: 25px;
+    margin-left: 8%;
+}
+.dsgpic2 img{
+    margin-top: -8%;
+    margin-left: 8%;
+}
+.overlay{
+   background-color: rgba(255, 255, 255, 0.781);
+   background-size: cover;
+   width: 100%;
+}
